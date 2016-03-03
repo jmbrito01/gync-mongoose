@@ -1,0 +1,29 @@
+{
+  "name": "gync-mongoose",
+  "version": "1.0.0",
+  "description": "A simple Gync plugin for handling mongoose promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmbrito01/gync-mongoose.git"
+  },
+  "keywords": [
+    "gync",
+    "mongoose",
+    "async",
+    "sync"
+  ],
+  "author": "Joao Marcelo Brito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmbrito01/gync-mongoose/issues"
+  },
+  "homepage": "https://github.com/jmbrito01/gync-mongoose#readme",
+  "dependencies": {
+    "gync": "^1.0.2",
+    "mongoose": "^4.4.6"
+  }
+}
